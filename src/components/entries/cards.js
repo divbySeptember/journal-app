@@ -25,7 +25,7 @@ function Cards() {
               style={{ width: '18rem', margin: '0.5rem' }}
               className="mb-2 justify-content-between"
 
-              editButton
+              
             >
               <Card.Header>Header</Card.Header>
               <Card.Body>

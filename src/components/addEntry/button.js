@@ -11,7 +11,7 @@ function Allbutton() {
 
     const handleShow = () => setShow(true);
     const handleClose = () => setShow(false);
-    console.log({handleShow})
+   
 
     // const handleSubmit = e => {
     //     e.preventDefault();
